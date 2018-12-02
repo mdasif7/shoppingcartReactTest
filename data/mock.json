@@ -1,0 +1,181 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "imageURL": "http://placehold.it/150/1b21a0/ffffff",
+      "name": "product 1",
+      "type": "",
+      "price": 250,
+      "currency": "$"
+    },
+    {
+      "id": 2,
+      "imageURL": "http://placehold.it/150/bc4125/ffffff",
+      "name": "product 2",
+      "type": "",
+      "price": 350,
+      "currency": "$"
+    },
+    {
+      "id": 3,
+      "imageURL": "http://placehold.it/150/5abc25/ffffff",
+      "name": "product 3",
+      "type": "",
+      "price": 200,
+      "currency": "$"
+    },
+    {
+      "id": 4,
+      "imageURL": "http://placehold.it/150/ebf742/ffffff",
+      "name": "product 4",
+      "type": "",
+      "price": 500,
+      "currency": "$"
+    },
+    {
+      "id": 5,
+      "imageURL": "http://placehold.it/150/d121c8/ffffff",
+      "name": "product 5",
+      "type": "",
+      "price": 100,
+      "currency": "$"
+    },
+    {
+      "id": 6,
+      "imageURL": "http://placehold.it/150/1b21a1/ffffff",
+      "name": "product 6",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 7,
+      "imageURL": "http://placehold.it/150/fb21a1/ffffff",
+      "name": "product 7",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 8,
+      "imageURL": "http://placehold.it/150/fba1a1/ffffff",
+      "name": "product 8",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 9,
+      "imageURL": "http://placehold.it/150/ffbf00/ffffff",
+      "name": "product 9",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    
+    {
+      "id": 10,
+      "imageURL": "http://placehold.it/150/ff0000/ffffff",
+      "name": "product 10",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 11,
+      "imageURL": "http://placehold.it/150/1b21a0/ffffff",
+      "name": "product 11",
+      "type": "",
+      "price": 250,
+      "currency": "$"
+    },
+    {
+      "id": 12,
+      "imageURL": "http://placehold.it/150/bc4125/ffffff",
+      "name": "product 12",
+      "type": "",
+      "price": 350,
+      "currency": "$"
+    },
+    {
+      "id": 13,
+      "imageURL": "http://placehold.it/150/5abc25/ffffff",
+      "name": "product 13",
+      "type": "",
+      "price": 200,
+      "currency": "$"
+    },
+    {
+      "id": 14,
+      "imageURL": "http://placehold.it/150/ebf742/ffffff",
+      "name": "product 14",
+      "type": "",
+      "price": 500,
+      "currency": "$"
+    },
+    {
+      "id": 15,
+      "imageURL": "http://placehold.it/150/d121c8/ffffff",
+      "name": "product 15",
+      "type": "",
+      "price": 100,
+      "currency": "$"
+    },
+    {
+      "id": 16,
+      "imageURL": "http://placehold.it/150/1b21a1/ffffff",
+      "name": "product 16",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 17,
+      "imageURL": "http://placehold.it/150/fb21a1/ffffff",
+      "name": "product 17",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 18,
+      "imageURL": "http://placehold.it/150/fba1a1/ffffff",
+      "name": "product 18",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 19,
+      "imageURL": "http://placehold.it/150/ffbf00/ffffff",
+      "name": "product 19",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 20,
+      "imageURL": "http://placehold.it/150/8000ff/ffffff",
+      "name": "product 20",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 21,
+      "imageURL": "http://placehold.it/150/00ff80/ffffff",
+      "name": "product 21",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    },
+    {
+      "id": 22,
+      "imageURL": "http://placehold.it/150/8000ff/ffffff",
+      "name": "product 22",
+      "type": "",
+      "price": 10,
+      "currency": "$"
+    }
+  ]
+}

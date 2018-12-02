@@ -1,0 +1,17 @@
+.product {
+  padding: 10px;
+  transition: all .4s ease-in-out;
+}
+.product:hover {
+  transform: scale(1.1);
+}
+.product__price {
+  display: inherit;
+  line-height: 34px;
+}
+.product__name {
+  display: flex;
+}
+.product__button-wrap {
+  float: right;
+}

@@ -1,0 +1,12 @@
+.product-list {
+  display: flex;  
+  flex-flow: row wrap;
+}
+
+.product-list__item {
+  list-style: none;
+  width: 150px;
+  height: 150px;
+  margin: 5%
+}
+
